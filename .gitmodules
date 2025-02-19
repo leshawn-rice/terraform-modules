@@ -7,3 +7,6 @@
 [submodule "azurerm/stacks/terraform-test-stack"]
 	path = azurerm/stacks/terraform-test-stack
 	url = git@github.com:leshawn-rice/terraform-test-stack.git
+[submodule "azurerm/terraform-azurerm-standard-naming"]
+	path = azurerm/terraform-azurerm-standard-naming
+	url = git@github.com:leshawn-rice/terraform-azurerm-standard-naming.git
