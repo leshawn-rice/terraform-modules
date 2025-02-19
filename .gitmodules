@@ -1,3 +1,6 @@
 [submodule "terraform-azurerm-resource-group"]
 	path = terraform-azurerm-resource-group
 	url = git@github.com:leshawn-rice/terraform-azurerm-resource-group.git
+[submodule "azurerm/terraform-azurerm-resource-group"]
+	path = azurerm/terraform-azurerm-resource-group
+	url = git@github.com:leshawn-rice/terraform-azurerm-resource-group.git
