@@ -10,3 +10,6 @@
 [submodule "azurerm/terraform-azurerm-standard-naming"]
 	path = azurerm/terraform-azurerm-standard-naming
 	url = git@github.com:leshawn-rice/terraform-azurerm-standard-naming.git
+[submodule "azurerm/terraform-azurerm-tags"]
+	path = azurerm/terraform-azurerm-tags
+	url = git@github.com:leshawn-rice/terraform-azurerm-tags.git
