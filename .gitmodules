@@ -13,3 +13,14 @@
 [submodule "azurerm/terraform-azurerm-tags"]
 	path = azurerm/terraform-azurerm-tags
 	url = git@github.com:leshawn-rice/terraform-azurerm-tags.git
+[submodule "azurerm/terraform-azurerm-subnet"]
+	path = azurerm/terraform-azurerm-subnet
+	url = git@github.com:leshawn-rice/terraform-azurerm-subnet.git
+[submodule "azurerm/terraform-azurerm-container-group"]
+	path = azurerm/terraform-azurerm-container-group
+	url = git@github.com:leshawn-rice/terraform-azurerm-container-group.git
+[submodule "azurerm/terraform-azurerm-virtual-network"]
+	path = azurerm/terraform-azurerm-virtual-network
+	url = git@github.com:leshawn-rice/terraform-azurerm-container-group.git
+[submodule "git@github.com:leshawn-rice/terraform-azurerm-virtual-network.git"]
+	url = terraform-azurerm-virtual-network/
