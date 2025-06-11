@@ -24,3 +24,6 @@
 	url = git@github.com:leshawn-rice/terraform-azurerm-container-group.git
 [submodule "git@github.com:leshawn-rice/terraform-azurerm-virtual-network.git"]
 	url = terraform-azurerm-virtual-network/
+[submodule "azurerm/terraform-azurerm-subscription"]
+	path = azurerm/terraform-azurerm-subscription
+	url = git@github.com:leshawn-rice/terraform-azurerm-subscription.git
