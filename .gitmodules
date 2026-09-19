@@ -55,3 +55,9 @@
 [submodule "azurerm/terraform-azurerm-user-assigned-identity"]
 	path = azurerm/terraform-azurerm-user-assigned-identity
 	url = git@github.com:leshawn-rice/terraform-azurerm-user-assigned-identity.git
+[submodule "azurerm/terraform-azurerm-consumption-budget"]
+	path = azurerm/terraform-azurerm-consumption-budget
+	url = git@github.com:leshawn-rice/terraform-azurerm-consumption-budget.git
+[submodule "azurerm/terraform-azurerm-function-app-flex-consumption"]
+	path = azurerm/terraform-azurerm-function-app-flex-consumption
+	url = git@github.com:leshawn-rice/terraform-azurerm-function-app-flex-consumption.git
