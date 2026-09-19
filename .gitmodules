@@ -1,12 +1,6 @@
-[submodule "terraform-azurerm-resource-group"]
-	path = terraform-azurerm-resource-group
-	url = git@github.com:leshawn-rice/terraform-azurerm-resource-group.git
 [submodule "azurerm/terraform-azurerm-resource-group"]
 	path = azurerm/terraform-azurerm-resource-group
 	url = git@github.com:leshawn-rice/terraform-azurerm-resource-group.git
-[submodule "azurerm/stacks/terraform-test-stack"]
-	path = azurerm/stacks/terraform-test-stack
-	url = git@github.com:leshawn-rice/terraform-test-stack.git
 [submodule "azurerm/terraform-azurerm-standard-naming"]
 	path = azurerm/terraform-azurerm-standard-naming
 	url = git@github.com:leshawn-rice/terraform-azurerm-standard-naming.git
@@ -21,9 +15,43 @@
 	url = git@github.com:leshawn-rice/terraform-azurerm-container-group.git
 [submodule "azurerm/terraform-azurerm-virtual-network"]
 	path = azurerm/terraform-azurerm-virtual-network
-	url = git@github.com:leshawn-rice/terraform-azurerm-container-group.git
-[submodule "git@github.com:leshawn-rice/terraform-azurerm-virtual-network.git"]
-	url = terraform-azurerm-virtual-network/
+	url = git@github.com:leshawn-rice/terraform-azurerm-virtual-network.git
 [submodule "azurerm/terraform-azurerm-subscription"]
 	path = azurerm/terraform-azurerm-subscription
 	url = git@github.com:leshawn-rice/terraform-azurerm-subscription.git
+[submodule "azurerm/terraform-azurerm-application-insights"]
+	path = azurerm/terraform-azurerm-application-insights
+	url = git@github.com:leshawn-rice/terraform-azurerm-application-insights.git
+[submodule "azurerm/terraform-azurerm-container-registry"]
+	path = azurerm/terraform-azurerm-container-registry
+	url = git@github.com:leshawn-rice/terraform-azurerm-container-registry.git
+[submodule "azurerm/terraform-azurerm-cosmosdb-account"]
+	path = azurerm/terraform-azurerm-cosmosdb-account
+	url = git@github.com:leshawn-rice/terraform-azurerm-cosmosdb-account.git
+[submodule "azurerm/terraform-azurerm-key-vault"]
+	path = azurerm/terraform-azurerm-key-vault
+	url = git@github.com:leshawn-rice/terraform-azurerm-key-vault.git
+[submodule "azurerm/terraform-azurerm-linux-function-app"]
+	path = azurerm/terraform-azurerm-linux-function-app
+	url = git@github.com:leshawn-rice/terraform-azurerm-linux-function-app.git
+[submodule "azurerm/terraform-azurerm-log-analytics-workspace"]
+	path = azurerm/terraform-azurerm-log-analytics-workspace
+	url = git@github.com:leshawn-rice/terraform-azurerm-log-analytics-workspace.git
+[submodule "azurerm/terraform-azurerm-private-dns-zone"]
+	path = azurerm/terraform-azurerm-private-dns-zone
+	url = git@github.com:leshawn-rice/terraform-azurerm-private-dns-zone.git
+[submodule "azurerm/terraform-azurerm-private-endpoint"]
+	path = azurerm/terraform-azurerm-private-endpoint
+	url = git@github.com:leshawn-rice/terraform-azurerm-private-endpoint.git
+[submodule "azurerm/terraform-azurerm-service-plan"]
+	path = azurerm/terraform-azurerm-service-plan
+	url = git@github.com:leshawn-rice/terraform-azurerm-service-plan.git
+[submodule "azurerm/terraform-azurerm-static-web-app"]
+	path = azurerm/terraform-azurerm-static-web-app
+	url = git@github.com:leshawn-rice/terraform-azurerm-static-web-app.git
+[submodule "azurerm/terraform-azurerm-storage-account"]
+	path = azurerm/terraform-azurerm-storage-account
+	url = git@github.com:leshawn-rice/terraform-azurerm-storage-account.git
+[submodule "azurerm/terraform-azurerm-user-assigned-identity"]
+	path = azurerm/terraform-azurerm-user-assigned-identity
+	url = git@github.com:leshawn-rice/terraform-azurerm-user-assigned-identity.git
